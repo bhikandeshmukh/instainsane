@@ -11,6 +11,12 @@
  <a href="https://github.com/bhikandeshmukh/Termux-Keys"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>
  <a href="https://github.com/bhikandeshmukh"><img title="Stars" src="https://img.shields.io/github/stars/bhikandeshmukh/DroidTracker?style=social" ></a>
 </p>
+<p align="center">
+<a href="https://github.com/bhikandeshmukh/followers"><img title="Followers" src="https://img.shields.io/github/followers/bhikandeshmukh?color=blue&style=flat-square"></a>
+<a href="https://github.com/bhikandeshmukh/instarat/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/bhikandeshmukh/instarat?color=red&style=flat-square"></a>
+<a href="https://github.com/bhikandeshmukh/instarat/network/members"><img title="Forks" src="https://img.shields.io/github/forks/bhikandeshmukh/instarat?color=red&style=flat-square"></a>
+<a href="https://github.com/bhikandeshmukh/instarat/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/bhikandeshmukh/instarat?label=Watchers&color=blue&style=flat-square"></a>
+</p>
 
 # Instainsane
 Instainsane is an Shell Script to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of about 1000 passwords/min with 100 attemps at once.
